@@ -10,12 +10,12 @@ This project implements sentiment analysis on public opinions regarding Indonesi
 
 2. Sentiment Analysis Models:
 * BERT (Bidirectional Encoder Representations from Transformers):
-** Fine-tuning a pre-trained BERT model for sentiment classification.
-** Using BERT to capture nuanced and context-rich sentiment from text data.
+  ** Fine-tuning a pre-trained BERT model for sentiment classification.
+  ** Using BERT to capture nuanced and context-rich sentiment from text data.
 * Vader (Valence Aware Dictionary and sEntiment Reasoner):
-** Applying Vader for rule-based sentiment analysis, particularly effective on social media text.
+  ** Applying Vader for rule-based sentiment analysis, particularly effective on social media text.
 * TextBlob:
-** Utilizing TextBlob for simple and fast sentiment analysis through its built-in sentiment classification capabilities.
+  ** Utilizing TextBlob for simple and fast sentiment analysis through its built-in sentiment classification capabilities.
 
 3. Model Comparison:
 * Comparing the performance of BERT, Vader, and TextBlob in terms of accuracy, precision, recall, and F1-score.
