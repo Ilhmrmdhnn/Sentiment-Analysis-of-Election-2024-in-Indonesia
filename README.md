@@ -1,4 +1,4 @@
-# Sentiment-Analysis-of-Election-2024-in-Indonesia
+# Sentiment Analysis of Election 2024 in Indonesia
 
 ## Overview
 This project implements sentiment analysis on public opinions regarding Indonesian politics in the lead-up to the 2024 elections. The analysis uses advanced natural language processing models including BERT, Vader, and TextBlob to assess sentiment based on social media data.
